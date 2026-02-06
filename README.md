@@ -1,2 +1,2 @@
 # jma-grib
-grib2-parser
+GRIB2 parser optimized for JMA GRIB2 files
